@@ -1,0 +1,14 @@
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\bin\Debug\net8.0\Arrays 1.exe
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\bin\Debug\net8.0\Arrays 1.deps.json
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\bin\Debug\net8.0\Arrays 1.runtimeconfig.json
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\bin\Debug\net8.0\Arrays 1.dll
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\bin\Debug\net8.0\Arrays 1.pdb
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\obj\Debug\net8.0\Arrays 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\obj\Debug\net8.0\Arrays 1.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\obj\Debug\net8.0\Arrays 1.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\obj\Debug\net8.0\Arrays 1.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\obj\Debug\net8.0\Arrays 1.dll
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\obj\Debug\net8.0\refint\Arrays 1.dll
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\obj\Debug\net8.0\Arrays 1.pdb
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\obj\Debug\net8.0\Arrays 1.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Arrays 1\obj\Debug\net8.0\ref\Arrays 1.dll
