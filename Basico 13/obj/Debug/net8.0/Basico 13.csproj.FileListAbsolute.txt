@@ -1,0 +1,14 @@
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\bin\Debug\net8.0\Basico 13.exe
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\bin\Debug\net8.0\Basico 13.deps.json
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\bin\Debug\net8.0\Basico 13.runtimeconfig.json
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\bin\Debug\net8.0\Basico 13.dll
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\bin\Debug\net8.0\Basico 13.pdb
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\obj\Debug\net8.0\Basico 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\obj\Debug\net8.0\Basico 13.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\obj\Debug\net8.0\Basico 13.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\obj\Debug\net8.0\Basico 13.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\obj\Debug\net8.0\Basico 13.dll
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\obj\Debug\net8.0\refint\Basico 13.dll
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\obj\Debug\net8.0\Basico 13.pdb
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\obj\Debug\net8.0\Basico 13.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\C# Practicas\Basico 13\obj\Debug\net8.0\ref\Basico 13.dll
