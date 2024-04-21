@@ -1,0 +1,28 @@
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\bin\Debug\net8.0\Basico 2.exe
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\bin\Debug\net8.0\Basico 2.deps.json
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\bin\Debug\net8.0\Basico 2.runtimeconfig.json
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\bin\Debug\net8.0\Basico 2.dll
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\bin\Debug\net8.0\Basico 2.pdb
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.dll
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\obj\Debug\net8.0\refint\Basico 2.dll
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.pdb
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Documentos\C# Practicas\Basico 2\obj\Debug\net8.0\ref\Basico 2.dll
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\bin\Debug\net8.0\Basico 2.exe
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\bin\Debug\net8.0\Basico 2.deps.json
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\bin\Debug\net8.0\Basico 2.runtimeconfig.json
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\bin\Debug\net8.0\Basico 2.dll
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\bin\Debug\net8.0\Basico 2.pdb
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.dll
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\obj\Debug\net8.0\refint\Basico 2.dll
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.pdb
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\obj\Debug\net8.0\Basico 2.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Documentos\Practicas Programacion\C# Practicas\Basico 2\obj\Debug\net8.0\ref\Basico 2.dll
