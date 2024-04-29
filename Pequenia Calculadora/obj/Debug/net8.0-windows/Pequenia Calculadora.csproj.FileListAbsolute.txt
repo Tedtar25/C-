@@ -1,0 +1,16 @@
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\bin\Debug\net8.0-windows\Pequenia Calculadora.exe
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\bin\Debug\net8.0-windows\Pequenia Calculadora.deps.json
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\bin\Debug\net8.0-windows\Pequenia Calculadora.runtimeconfig.json
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\bin\Debug\net8.0-windows\Pequenia Calculadora.dll
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\bin\Debug\net8.0-windows\Pequenia Calculadora.pdb
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\obj\Debug\net8.0-windows\Pequenia_Calculadora.Form1.resources
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\obj\Debug\net8.0-windows\Pequenia Calculadora.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\obj\Debug\net8.0-windows\Pequenia Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\obj\Debug\net8.0-windows\Pequenia Calculadora.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\obj\Debug\net8.0-windows\Pequenia Calculadora.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\obj\Debug\net8.0-windows\Pequenia Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\obj\Debug\net8.0-windows\Pequenia Calculadora.dll
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\obj\Debug\net8.0-windows\refint\Pequenia Calculadora.dll
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\obj\Debug\net8.0-windows\Pequenia Calculadora.pdb
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\obj\Debug\net8.0-windows\Pequenia Calculadora.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Documentos\ING SOFTWARE\Practicas Programacion\Visual Studio Projectos\Pequenia Calculadora\Pequenia Calculadora\obj\Debug\net8.0-windows\ref\Pequenia Calculadora.dll
